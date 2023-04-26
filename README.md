@@ -1,9 +1,9 @@
-# Sistema de Recomendação de Músicas
+# Song Recommendation System
 
 This notebook features a music recommendation system based on musical characteristics, such as Acousticness, Danceability, Energy, Instrumentalness, Loudness, Speechiness, among others. The dataset contains information about the musical characteristics of various songs.
 
-## Conjunto de Dados
-O conjunto de dados foi obtido de uma plataforma de streaming de música e contém informações sobre as seguintes características musicais:
+## Data set
+The dataset was obtained from a music streaming platform and contains information about the following musical characteristics:
 
 - Acousticness: Numeric variable, confidence measure from 0.0 to 1.0 if the track is acoustic. 1.0 represents high confidence that the track is acoustic.
 - Danceability: Numerical variable, danceability describes how suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity. A value of 0.0 is the least danceable and 1.0 is the most danceable.
@@ -20,9 +20,9 @@ O conjunto de dados foi obtido de uma plataforma de streaming de música e cont�
 - Popularity: Numerical variable, the popularity of a track is a value between 0 and 100, with 100 being the most popular. Popularity is calculated algorithmically and is largely based on the total number of plays the track has had and how recent those plays are.
 - Speechiness: Numerical variable, speech detects the presence of spoken words in a track. The more exclusively spoken the recording (eg, talk show, audiobook, poetry), the closer to 1.0 the attribute value. Values above 0.66 describe tracks that are likely to be made up entirely of spoken words. Values between 0.33 and 0.66 describe tracks that can contain both music and speech, either in sections or in layers, including cases like rap music. Values below 0.33 are likely to represent music and other non-speech tracks.
 - Time: Numeric variable, overall estimated time of a track in beats per minute (BPM). In musical terminology, tempo is the speed or rhythm of a given piece and is directly derived from the average duration of the beat.
-- Valence: Numerical variable, Measure from 0.0 to 1.0 describing the musical positivity transmitted by a track. High valence tracks sound more positive (eg happy, cheerful, euphoric), while low valence tracks sound more negative (eg sad, depressed, angry).
+- Valence: Numerical variable, Measured from 0.0 to 1.0 describing the musical positivity transmitted by a track. High valence tracks sound more positive (eg happy, cheerful, euphoric), while low valence tracks sound more negative (eg sad, depressed, angry).
 - Year: Year the song was released.
 
 ## Contribution
 Contributions are welcome! If you find any bugs or have any suggestions for improvement, please open an issue in the repository or submit a pull request.
-a pull request.
+the pull request.
