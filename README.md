@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Song Recommendation System
 
 This notebook features a music recommendation system based on musical characteristics, such as Acousticness, Danceability, Energy, Instrumentalness, Loudness, Speechiness, among others. The dataset contains information about the musical characteristics of various songs.
