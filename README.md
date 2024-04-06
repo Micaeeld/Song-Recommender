@@ -1,6 +1,6 @@
 # Sistema de Recomendação de Músicas
 
-Este script apresenta um sistema de recomendação de músicas baseado em características musicais, tais como Acousticness, Danceability, Energy, Instrumentalness, Loudness, Speechiness, entre outras. O conjunto de dados utilizado contém informações sobre essas características de várias músicas.
+Este notebook apresenta um sistema de recomendação de músicas baseado em características musicais, tais como Acousticness, Danceability, Energy, Instrumentalness, Loudness, Speechiness, entre outras. O conjunto de dados utilizado contém informações sobre essas características de várias músicas.
 
 ## Objetivo
 
